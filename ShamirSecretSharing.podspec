@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://github.com/kevb10/sss-swift'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Amber Sprenkels' => 'amber@electricdusk.com' }
-  s.source           = { :git => 'https://github.com/kevb10/sss-swift.git', :commit => bff1e03 }
+  s.source           = { :git => 'https://github.com/kevb10/sss-swift.git', :commit => 'bff1e03' }
 
   s.ios.deployment_target = '13.0'
   s.swift_version = '5.0'
